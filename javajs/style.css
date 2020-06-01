@@ -1,0 +1,47 @@
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+
+
+/*.tofu{
+  width: 100%;
+  height: 100vh;
+  background-image: url(pic_bulboff.gif);
+  background-color: black;
+  color: brown;
+  font-size: 40px;
+}*/
+.bulb{
+position: relative;
+top: 15%;
+left: 25%;
+
+
+}
+.btn1{
+  position: relative;
+  left: 12%;
+  border: 1px solid green;
+  background-color: black;
+  color: wheat;
+  
+}
+.btn1:hover{
+  background-color: tomato;
+}
+
+.btn2{
+  position: relative;
+  left: 20%;
+  border: 1px solid green;
+  background-color: black;
+  color: wheat;
+  
+}
+.btn2:hover{
+  background-color: darkgreen;
+}
+
